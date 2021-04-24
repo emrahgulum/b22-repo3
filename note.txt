@@ -10,7 +10,12 @@ Now our work will continue localy
 
 1.add a new file called note.txt
 2.commited the change to local repo
-3.we want this change to be reflected in remote repository so we PUSHED local commit to
+3.we want this change to be reflected in remote repository so we PUSHED local commits to
 remote repository using push origin button
 4.Observe it has been added in your repository 
 under Github.com
+
+How to save after adding some text in sublime
+O mac Comman + S
+On Windows Control + s
+Or Click on File --> Save
